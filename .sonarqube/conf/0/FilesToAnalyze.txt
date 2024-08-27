@@ -1,0 +1,11 @@
+﻿C:\Users\smarrero\source\repos\WebApplicationHT\Controllers\WeatherForecastController.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\Program.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\WeatherForecast.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\obj\Debug\net8.0\WebApplicationHT.GlobalUsings.g.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\obj\Debug\net8.0\WebApplicationHT.AssemblyInfo.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\obj\Debug\net8.0\WebApplicationHT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smarrero\source\repos\WebApplicationHT\appsettings.Development.json
+C:\Users\smarrero\source\repos\WebApplicationHT\appsettings.json
+C:\Users\smarrero\source\repos\WebApplicationHT\WebApplicationHT.http
+C:\Users\smarrero\source\repos\WebApplicationHT\Properties\launchSettings.json
